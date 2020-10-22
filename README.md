@@ -5,7 +5,7 @@
 This repository contains all code + deployment scripts for the Tailwind Traders Backend.
 
 ## Table of contents
-
+###ok test
 - [Repositories](#repositories)
 - [Deployment scenarios](#deployment-scenarios)
   - [Deploy Tailwind Traders Backend on Azure AKS and Azure resources (CosmosDb and Storage accounts)](#deploy-resources)
